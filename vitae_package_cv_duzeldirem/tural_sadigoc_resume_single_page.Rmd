@@ -1,0 +1,102 @@
+---
+name: Tural
+surname: Sadigov
+position: "U.S. Permanent Resident"
+address: "Hamilton College, 198 College Hill Rd, Clinton, NY"
+phone: +1 (315) 859 - 4551
+profilepic: profil_circle.jpeg
+www: turalsadigov.github.io/
+WWW: https://tsadigov.netlify.app/
+email: "tsadigov@hamilton.edu"
+github: turalsadigov
+linkedin: tural-sadigov
+date: "`r format(Sys.time(), '%B %Y')`"
+aboutme: "Visiting Assistant Professor of Mathematics and Statistics with Ph.D. in Applied Mathematics and 7+ years experience in developing and teaching both mathematics and data-related courses such as various levels of Statistics, Machine Learning, Probability and Time Series Analysis (on Coursera) and mentoring undergraduate Machine Learning projects in Statistical Methods in Machine Learning course. Using R and RStudio extensively in all data-related course. Creator of R package stats2data for one of the statistics courses. Skills: Mathematics, Statistics, Machine Learning, Python, R, SQLite, Quarto, R Markdwon, LaTeX"
+output: vitae::twentyseconds
+#output: vitae::awesomecv
+bibliography: references.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Current and Past Positions
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Visiting Assistant Professor", "2020 - ", "Hamilton College", "Clinton, NY",
+  "Coursera Instructor ", "2017 - ", "Coursera", "Online",
+  "Statistics Lecturer", "2019 - 20", "Hamilton College", "Clinton, NY",
+  "Applied Mathematics Lecturer", "2015 - 20", "SUNY Polytechnic Institute", "Utica, NY",
+  "Mathematics Service Coordinator", "2019 - 20", "SUNY Polytechnic Institute", "Utica, NY",
+  "Associate Instructor", "2008 - 15", "Indiana University", "Bloomington, IN"
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Ph.D and MA, Applied Mathematics", "2008 - 15", "Indiana University", "Bloomington, IN",
+  "BS, Mathematics", "2003 - 08", "Boğaziçi University", "Istanbul, Turkey"
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Data Science Skills
+
+-   Supervised/Unsupervised Machine Learning
+-   Data Wrangling, Cleaning, Preprocessing & Feature Engineering
+-   Time Series Analysis: ARIMA, SARIMA
+-   Statistical Inference
+-   Data Visualization
+-   Communication, reporting and dashboard: Quarto, R Markdown, Jupyter Notebook, R Shiny. Sample R Shiny web app: [Link to the app](https://turalsadigov.shinyapps.io/my_new_ames_app/)
+
+
+# Research Experience
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Summer Research Associate", "2020, 21", "Air Force Research Lab Griffis Institute", "Rome, NY",
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Awards/Grants
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution,
+  "Dean’s Pedagogical Development Award (twice)", "2020, 21", "Hamilton College",
+  "Summer research grants (twice)", "2020, 21", "AFRL/GI",
+  "SGU Award for Excellence in Teaching", "2018-19", "SUNY Poly",
+  "Bronze Medal", "2003", "International Mathematical Olympiad",
+  "Gold Medal (four times)", "2000-03", "Azerbaijan Mathematical Olympiad"
+) %>% 
+  detailed_entries(Degree, Year, Institution)
+```
+
+# Publications
+
+1.  Safety Prediction Model for Reinforced Highway Slope using a Machine Learning Method, 2020
+2.  A determining form for the subcritical surface quasi-geostrophic equation, 2019
+3.  Determining form and data assimilation algorithm for weakly damped and driven Korteweg-de Vries equaton- Fourier modes case, 2017
+4.  A determining form for the damped driven Nonlinear Schrödinger Equation- Fourier modes case, 2015
+
+# Available at request
+
+-   Mentored Machine Learning projects
+
+-   Invited data-related talks
+
+-   References from colleagues and co-authors
