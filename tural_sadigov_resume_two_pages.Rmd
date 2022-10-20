@@ -91,37 +91,37 @@ tribble(
 3.  Determining form and data assimilation algorithm for weakly damped and driven Korteweg--de Vries equation --- Fourier modes case, 2017 ([Link to the paper](https://www.sciencedirect.com/science/article/abs/pii/S1468121817300184))
 4.  A determining form for the damped driven nonlinear Schrödinger equation---Fourier modes case, 2015 ([Link to the paper](https://www.sciencedirect.com/science/article/pii/S0022039614004823))
 
-<!-- \newpage -->
+\newpage
 
-<!-- # Selected mentored ML projects -->
+# Selected mentored ML projects
 
-<!-- 1.  *Does Economic Development Predict Democratization?*, With Chiara Bondi, John Madigan (Methods: Regularized Regression Models (LASSO, Ridge, Elastic-Net)), 2022 -->
+1.  *Does Economic Development Predict Democratization?*, With Chiara Bondi, John Madigan (Methods: Regularized Regression Models (LASSO, Ridge, Elastic-Net)), 2022
 
-<!-- 2.  *A Regularized Binomial Logistic Regression Approach to Cancer Classification Using Gene Expression*, Joshua Horowitz, Mukund Jayaran (Methods: Regularized Logistic Regression), 2022 -->
+2.  *A Regularized Binomial Logistic Regression Approach to Cancer Classification Using Gene Expression*, Joshua Horowitz, Mukund Jayaran (Methods: Regularized Logistic Regression), 2022
 
-<!-- 3.  Predicting Career Longevity of NBA Rookies, Margaret Phipps, Luke Devine (Methods: Support Vector Machines), 2021 -->
+3.  Predicting Career Longevity of NBA Rookies, Margaret Phipps, Luke Devine (Methods: Support Vector Machines), 2021
 
-<!-- 4.  Identifying Parkinson\'s Disease Through Speech Patterns, Ian Nduhiu, Lindsay Gearty (Methods: Support Vector Machines), 2021 -->
+4.  Identifying Parkinson\'s Disease Through Speech Patterns, Ian Nduhiu, Lindsay Gearty (Methods: Support Vector Machines), 2021
 
-<!-- 5.  Predicting Housing Rent Prices Using House Characteristics, Taron Kui, Iftikhar Ramnandan, Jenny Tran (Methods: Decision Trees, Bagged Models, Random Forest), 2021 -->
+5.  Predicting Housing Rent Prices Using House Characteristics, Taron Kui, Iftikhar Ramnandan, Jenny Tran (Methods: Decision Trees, Bagged Models, Random Forest), 2021
 
-<!-- 6.  How Race, Income, and Education Relate to Inter- net Access in US Counties, Lindsay Gearty, Margraet Phipps (Methods: Multiple Polynomial Regression, Forward/Backward Variable Selection), 2021 -->
+6.  How Race, Income, and Education Relate to Inter- net Access in US Counties, Lindsay Gearty, Margraet Phipps (Methods: Multiple Polynomial Regression, Forward/Backward Variable Selection), 2021
 
 
-<!-- # Selected data-related talks -->
+# Selected data-related talks
 
-<!-- 1.  Theoretical Analysis of Artificial Neural Network solutions to the damped, driven Korteweg de-Vries equation, AMS Special Session, 2022 -->
+1.  Theoretical Analysis of Artificial Neural Network solutions to the damped, driven Korteweg de-Vries equation, AMS Special Session, 2022
 
-<!-- 2.  Support Vector Machines, CUNY - Hunter College, 2021 -->
+2.  Support Vector Machines, CUNY - Hunter College, 2021
 
-<!-- 3.  Model Selection & Validation in Machine Learning, CUNY - Hunter College, 2021 -->
+3.  Model Selection & Validation in Machine Learning, CUNY - Hunter College, 2021
 
-<!-- 4.  Support Vector Machines: Overview and Applications, CUNY - Hunter College, 2020 -->
+4.  Support Vector Machines: Overview and Applications, CUNY - Hunter College, 2020
 
-<!-- 5.  Support Vector Machines: Overview and Applications, Hamilton College, 2020 -->
+5.  Support Vector Machines: Overview and Applications, Hamilton College, 2020
 
-<!-- 6.  Stochastic Calculus: Ito Integrals and Stochastic Differential Equations, SUNY Poly, 2019 -->
+6.  Stochastic Calculus: Ito Integrals and Stochastic Differential Equations, SUNY Poly, 2019
 
-<!-- 7.  Stochastic Processes, Markov Chain and Brownian Motion, SUNY Poly, 2019 -->
+7.  Stochastic Processes, Markov Chain and Brownian Motion, SUNY Poly, 2019
 
-<!-- 8.  A gentle introduction to Stochastic Processes, SUNY Poly, 2019 -->
+8.  A gentle introduction to Stochastic Processes, SUNY Poly, 2019
