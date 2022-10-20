@@ -6,12 +6,11 @@ address: "Hamilton College, 198 College Hill Rd, Clinton, NY"
 phone: +1 (315) 859 - 4551
 profilepic: profil_circle.jpeg
 www: turalsadigov.github.io/
-WWW: https://tsadigov.netlify.app/
 email: "tsadigov@hamilton.edu"
 github: turalsadigov
 linkedin: tural-sadigov
 date: "`r format(Sys.time(), '%B %Y')`"
-aboutme: "Visiting Assistant Professor of Mathematics and Statistics with Ph.D. in Applied Mathematics and 7+ years experience in developing and teaching both mathematics and data-related courses such as various levels of Statistics, Machine Learning, Probability and Time Series Analysis (on Coursera) and mentoring undergraduate Machine Learning projects in Statistical Methods in Machine Learning course. Using R and RStudio extensively in all data-related course. Creator of R package stats2data (https://github.com/turalsadigov/stats2data) for Statistical Modeling and Applciations course at Hamilton College. Skills: Mathematics, Statistics, Machine Learning, Python, R, SQLite, Quarto, R Markdwon, LaTeX"
+aboutme: "Visiting Assistant Professor of Mathematics and Statistics with Ph.D. in Applied Mathematics and 7+ years experience in developing and teaching both mathematics and data-related courses such as various levels of Statistics, Machine Learning, Probability and Time Series Analysis (on Coursera) and mentoring undergraduate Machine Learning projects in Statistical Methods in Machine Learning course. Using R and RStudio extensively in all data-related course. Creator of R package stats2data (https://github.com/turalsadigov/stats2data) for Statistical Modeling and Applciations course at Hamilton College. Skills: Mathematics, Statistics, Machine Learning, Python, R, SQLite, Quarto, R Markdwon, LaTeX. More detailed cv: https://turalsadigov.github.io/cv.html"
 skill: "Deneme"
 output: vitae::twentyseconds
 #output: vitae::awesomecv
@@ -29,7 +28,7 @@ library(tibble)
 tribble(
   ~ Degree, ~ Year, ~ Institution, ~ Where,
   "Visiting Assistant Professor", "2020 - ", "Hamilton College", "Teaching data science courses including Statistical Analysis of Data, Statistical Modeling and Its Applications and Statistical Methods in Machine Learning. Supervising students’ machine learning projects. Morever, teaching other mathematics courses such as all levels of calculus, and doing research in the combination of Machine Learning and Applied Mathematics.",
-  "Coursera Instructor ", "2017 - ", "Coursera", "Teaching Practical Time Series Analysis",
+  "Coursera Instructor ", "2017 - ", "Coursera", "Practical Time Series Analysis",
   "Statistics Lecturer", "2019 - 20", "Hamilton College", "Statistical Analysis of Data",
   "Applied Mathematics Lecturer and Math Service Coordinator", "2015 - 20", "SUNY Polytechnic Institute", "Teaching applied mathematics and statistics courses such Applied Probability, Regression, Time Series Analysis, Linear Algebra, Calculus, Differential Equations. Both undergraduate and graduate level courses",
   #"Associate Instructor", "2008 - 15", "Indiana University", "Bloomington, IN"
@@ -72,11 +71,12 @@ tribble(
 
 # Awards/Grants
 
--   Summer research grants, Air Force Research Lab/Griffis Institute, 2021, 2022 ($36000)
--   Dean's Pedagogical Development Awards, Hamilton College, 2021, 2022 ($4500)
--   SGU Award for Excellence in Teaching, SUNY Poly, AY 2018-2019
+-   Summer research grants, Air Force Research Lab/Griffis Institute, 2021-22 ($36000)
+-   Dean's Pedagogical Development Awards, Hamilton College, 2021-22 ($4500)
+-   Teaching Grant from Herkimer College and Hamilton College for teaching Financial Mathematics, 2022 ($10000)
+-   SGU Award for Excellence in Teaching, SUNY Poly, AY 2018-19
 -   Bronze Medal, 44th International Mathematical Olympiad, Tokyo, Japan, 2003
--   Gold Medal (four times), Azerbaijan Mathematical Olympiad, 2000, 2001, 2002, 2003
+-   Gold Medal (four times), Azerbaijan Mathematical Olympiad, 2000-03
 
 
 # Publications
