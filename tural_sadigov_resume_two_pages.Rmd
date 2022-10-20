@@ -69,20 +69,14 @@ tribble(
   detailed_entries(Degree, Year, Institution, Where)
 ```
 
+
 # Awards/Grants
 
-```{r}
-library(tibble)
-tribble(
-  ~ Degree, ~ Year, ~ Institution,
-  "Summer research grants (twice)", "2020, 21", "AFRL/GI",
-  "Dean’s Pedagogical Development Award (twice)", "2020, 21", "Hamilton College",
-  "SGU Award for Excellence in Teaching", "2018-19", "SUNY Poly",
-  "Bronze Medal", "2003", "International Mathematical Olympiad",
-  "Gold Medal (four times)", "2000-03", "Azerbaijan Mathematical Olympiad"
-) %>% 
-  detailed_entries(Degree, Year, Institution)
-```
+-   Summer research grants, Air Force Research Lab/Griffis Institute, 2021, 2022 ($36000)
+-   Dean's Pedagogical Development Awards, Hamilton College, 2021, 2022 ($4500)
+-   SGU Award for Excellence in Teaching, SUNY Poly, AY 2018-2019
+-   Bronze Medal, 44th International Mathematical Olympiad, Tokyo, Japan, 2003
+-   Gold Medal (four times), Azerbaijan Mathematical Olympiad, 2000, 2001, 2002, 2003
 
 # Publications
 
