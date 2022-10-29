@@ -3,21 +3,22 @@ name: Tural
 surname: Sadigov
 position: "U.S. Permanent Resident"
 address: "Hamilton College, 198 College Hill Rd, Clinton, NY"
-phone: +1 (315) 859 - 4551
+phone: +1 (812) 650 - 2583
 profilepic: profil_circle.jpeg
 www: turalsadigov.github.io/
 email: "tsadigov@hamilton.edu"
 github: turalsadigov
 linkedin: tural-sadigov
 date: "`r format(Sys.time(), '%B %Y')`"
-aboutme: "Visiting Assistant Professor of Mathematics and Statistics with Ph.D. in Applied Mathematics and 7+ years experience in developing and teaching both mathematics and data-related courses such as various levels of Statistics, Machine Learning, Probability and Time Series Analysis (on Coursera) and mentoring undergraduate Machine Learning projects in Statistical Methods in Machine Learning course. Using R and RStudio extensively in all data-related course. Creator of R package stats2data (https://github.com/turalsadigov/stats2data) for Statistical Modeling and Applciations course at Hamilton College. Skills: Mathematics, Statistics, Machine Learning, Python, R, SQLite, Quarto, R Markdwon, LaTeX. More detailed cv: https://turalsadigov.github.io/cv.html"
-skill: "Deneme"
+aboutme: "Visiting Assistant Professor of Mathematics and Statistics with Ph.D. in Applied Mathematics and 7+ years experience in developing and teaching both mathematics and data-related courses such as various levels of Statistics, Machine Learning, Probability and Time Series Analysis (on Coursera) and mentoring undergraduate Machine Learning projects in Statistical Methods in Machine Learning course. Using R and RStudio extensively in all data-related course. Creator of R package stats2data for the Statistical Modeling and Applications course at Hamilton College. More detailed cv: https://turalsadigov.github.io/cv.html"
 output: vitae::twentyseconds
+
+
 #output: vitae::awesomecv
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+knitr::opts_chunk$set(echo = FALSE, out.extra = TRUE, warning = FALSE, message = FALSE)
 library(vitae)
 ```
 
@@ -26,14 +27,14 @@ library(vitae)
 ```{r}
 library(tibble)
 tribble(
-  ~ Degree, ~ Year, ~ Institution, ~ Where,
-  "Visiting Assistant Professor", "2020 - ", "Hamilton College", "Teaching data science courses including Statistical Analysis of Data, Statistical Modeling and Its Applications and Statistical Methods in Machine Learning. Supervising students’ machine learning projects. Morever, teaching other mathematics courses such as all levels of calculus, and doing research in the combination of Machine Learning and Applied Mathematics.",
+  ~ Position, ~ Year, ~ Institution, ~ Description,
+  "Visiting Assistant Professor", "2020 - ", "Hamilton College", "Redesigned series of data science courses such as Statistical Analysis of Data, Statistical Modeling and Its Applications and Statistical Methods in Machine Learning by incorporating heavy coding into lectures, assessments and projects, and actively participated in data science initiatives of Hamilton College where one such initiatiuve resulted in a data science major. Sucessifully engaged students in Machine Learning projects. Played a crucial role in increasing the number of majors in mathematics and data science",
   "Coursera Instructor ", "2017 - ", "Coursera", "Practical Time Series Analysis",
-  "Statistics Lecturer", "2019 - 20", "Hamilton College", "Statistical Analysis of Data",
-  "Applied Mathematics Lecturer and Math Service Coordinator", "2015 - 20", "SUNY Polytechnic Institute", "Teaching applied mathematics and statistics courses such Applied Probability, Regression, Time Series Analysis, Linear Algebra, Calculus, Differential Equations. Both undergraduate and graduate level courses",
+  #"Statistics Lecturer", "2019 - 20", "Hamilton College", "Statistical Analysis of Data",
+  "Applied Mathematics Lecturer and Math Service Coordinator", "2015 - 20", "SUNY Polytechnic Institute", "Promoted data analysis certificate by delivering technical lectures in various statistics and applied mathematics courses such as Applied Probability, Regression, and Time Series Analysis at undergraduate and graduate levels. .",
   #"Associate Instructor", "2008 - 15", "Indiana University", "Bloomington, IN"
 ) %>% 
-  detailed_entries(Degree, Year, Institution, Where)
+  detailed_entries(Position, Year, Institution, Description)
 ```
 
 # Education
@@ -48,13 +49,20 @@ tribble(
   detailed_entries(Degree, Year, Institution, Where)
 ```
 
-# Data Science Skills
+# Data Science and Coding Skills
+
+-   Python, R, SQLite
 
 -   Supervised/Unsupervised Machine Learning
+
 -   Data Wrangling, Cleaning, Preprocessing & Feature Engineering
+
 -   Time Series Analysis: ARIMA, SARIMA
+
 -   Statistical Inference
--   Data Visualization
+
+-   Data Visualization (ggplot)
+
 -   Communication, reporting and dashboard: Quarto, R Markdown, Jupyter Notebook, R Shiny. Sample R Shiny web app: [Link to the app](https://turalsadigov.shinyapps.io/my_new_ames_app/)
 
 # Research Experience
@@ -63,7 +71,7 @@ tribble(
 library(tibble)
 tribble(
   ~ Degree, ~ Year, ~ Institution, ~ Where,
-  "Summer Research Associate", "2020, 21", "Air Force Research Lab Griffis Institute", "Worked on theoretical neural network solutions of dispersive equations and numerical algorithms to solve partial differential equations
+  "Summer Research Associate", "2020, 21", "Air Force Research Lab Griffis Institute", "Proved the existence of theoretical neural network solutions for differential equations, and designed and implemented numerical algorithms in Python to solve partial differential equations.
 ",
 ) %>% 
   detailed_entries(Degree, Year, Institution, Where)
@@ -71,24 +79,26 @@ tribble(
 
 # Awards/Grants
 
--   Summer research grants, Air Force Research Lab/Griffis Institute, 2021-22 ($36000)
--   Dean's Pedagogical Development Awards, Hamilton College, 2021-22 ($4500)
--   Teaching Grant from Herkimer College and Hamilton College for teaching Financial Mathematics, 2022 ($10000)
+-   Summer research grants, Air Force Research Lab/Griffis Institute, 2021-22 (\$36000)
+-   Dean's Pedagogical Development Awards, Hamilton College, 2021-22 (\$4500)
+-   Teaching Grant from Herkimer College and Hamilton College for teaching Financial Mathematics, 2022 (\$10000)
 -   SGU Award for Excellence in Teaching, SUNY Poly, AY 2018-19
 -   Bronze Medal, 44th International Mathematical Olympiad, Tokyo, Japan, 2003
 -   Gold Medal (four times), Azerbaijan Mathematical Olympiad, 2000-03
 
-
-# Publications
+# Selected Publications
 
 1.  Safety Prediction Model for Reinforced Highway Slope using a Machine Learning Method, 2020 ([Link to the paper](https://journals.sagepub.com/doi/10.1177/0361198120924415))
-2.  A Determining Form for the Subcritical Surface Quasi-Geostrophic Equation, 2019 ([Link to the paper](https://link.springer.com/article/10.1007/s10884-018-9652-4))
 3.  Determining form and data assimilation algorithm for weakly damped and driven Korteweg--de Vries equation --- Fourier modes case, 2017 ([Link to the paper](https://www.sciencedirect.com/science/article/abs/pii/S1468121817300184))
-4.  A determining form for the damped driven nonlinear Schrödinger equation---Fourier modes case, 2015 ([Link to the paper](https://www.sciencedirect.com/science/article/pii/S0022039614004823))
+
+<!--
+4.  A determining form for the damped driven nonlinear Schrödinger equation---Fourier modes case, 2015 ([Link to the paper]
+2.  A Determining Form for the Subcritical Surface Quasi-Geostrophic Equation, 2019 ([Link to the paper](https://link.springer.com/article/10.1007/s10884-018-9652-4))
 
 <!-- \newpage -->
 
-<!-- # Selected mentored ML projects -->
+<!-- ttps://www.sciencedirect.com/science/article/pii/S0022039614004823))
+# Selected mentored ML projects -->
 
 <!-- 1.  *Does Economic Development Predict Democratization?*, With Chiara Bondi, John Madigan (Methods: Regularized Regression Models (LASSO, Ridge, Elastic-Net)), 2022 -->
 
