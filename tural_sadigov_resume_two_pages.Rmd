@@ -63,7 +63,7 @@ tribble(
 
 -   Data Visualization (ggplot)
 
--   Familiarity with TensorFlow
+-   Familiarity with TensorFlow and Keras
 
 -   Communication, reporting and dashboard: Quarto, R Markdown, Jupyter Notebook, R Shiny. Sample R Shiny web app: [Link to the app](https://turalsadigov.shinyapps.io/my_new_ames_app/)
 
