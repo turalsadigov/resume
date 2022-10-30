@@ -51,19 +51,17 @@ tribble(
 
 # Data Science and Coding Skills
 
--   Python, R, SQLite
+-   R, Python, SQL
 
--   Supervised/Unsupervised Machine Learning
+-   Supervised/Unsupervised Machine Learning (tidymodels, sklearn)
 
--   Data Wrangling, Cleaning, Preprocessing & Feature Engineering
+-   Descriptive Statistics, Inferential Statistics, Hypothesis Testing, Resampling methods, Bootstrap methods, Permutation Tests (infer)
+
+-   Data Wrangling, Cleaning, Preprocessing & Feature Engineering, Data Visualization (tidyverse, dplyr, ggplot)
 
 -   Time Series Analysis: ARIMA, SARIMA
 
--   Statistical Inference
-
--   Data Visualization (ggplot)
-
--   Familiarity with TensorFlow and Keras
+-   Familiarity with tensorflow and keras (Deep Learning)
 
 -   Communication, reporting and dashboard: Quarto, R Markdown, Jupyter Notebook, R Shiny. Sample R Shiny web app: [Link to the app](https://turalsadigov.shinyapps.io/my_new_ames_app/)
 
@@ -83,7 +81,7 @@ tribble(
 
 # Awards/Grants
 
--   Summer research grants, Air Force Research Lab/Griffis Institute, 2021-22 (\$36000)
+-   Summer research grants, Air Force Research Lab/Griffiss Institute, 2021-22 (\$36000)
 -   Dean's Pedagogical Development Awards, Hamilton College, 2021-22 (\$4500)
 -   Teaching Grant from Herkimer College and Hamilton College for teaching Financial Mathematics, 2022 (\$10000)
 -   SGU Award for Excellence in Teaching, SUNY Poly, AY 2018-19
@@ -98,25 +96,32 @@ tribble(
 
     -   Methods: Joining dataset from various sources, data wrangling (pivoting), training and testing split, data imputation, feature engineering, Regularized Regression Models (LASSO, Ridge, Elastic-Net), cross-validation and hyper-parameter tuning
 
+    -   Packages: tidyverse, caret, glmnet
+
 2.  *A Regularized Binomial Logistic Regression Approach to Cancer Classification Using Gene Expression*, Joshua Horowitz, Mukund Jayaran, 2022
 
     -   Methods: feature engineering, training and testing split, Multiple Logistic Regression with L1 regularization,
+    -   Packages: tidyverse, caret, glmnet
 
 3.  Predicting Career Longevity of NBA Rookies, Margaret Phipps, Luke Devine, 2021
 
     -   Methods: feature engineering, training and testing split, Support Vector Classifier, Support Vector Machines (with polynomial and radial kernels), cross validation and hyper-parameter tuning, confusion matrices
+    -   Packages: caret, e1071, kernlab
 
 4.  Identifying Parkinson's Disease Through Speech Patterns, Ian Nduhiu, Lindsay Gearty (Methods: Support Vector Machines), 2021
 
     -   Methods: training and testing split, Support Vector Classifier, Support Vector Machines (with polynomial and radial kernels), cross validation and hyper-parameter tuning, confusion matrices, ROC curves, AUC comparison
+    -   Packages: caret, e1071, kernlab, roc
 
 5.  Predicting Housing Rent Prices Using House Characteristics, Taron Kui, Iftikhar Ramnandan, Jenny Tran, 2021
 
-    -   Methods: examination of multicollinearity, training and testing split, pruned regression/decision tree, bagged model and random forest, cross validation and hyper-parameter tuning,
+    -   Methods: examination of multicollinearity, training and testing split, pruned regression/decision tree, bagged model and random forest, cross validation and hyper-parameter tuning
+    -   Packages: rpart, tree, tidyverse
 
 6.  How Race, Income, and Education Relate to Inter- net Access in US Counties, Lindsay Gearty, Margraet Phipps (Methods: Multiple Polynomial Regression, Forward/Backward Variable Selection), 2021
 
     -   Methods: feature engineering, multiple linear regression, polynomial regression, backward variable selection using various measures, examination of multicollinearity
+    -   Packages: MASS, glmnet
 
 # Selected data-related talks
 
@@ -134,9 +139,12 @@ tribble(
 
 7.  Stochastic Processes, Markov Chain and Brownian Motion, SUNY Poly, 2019
 
-# Publications
+```{=html}
+<!-- # Publications
 
 1.  Safety Prediction Model for Reinforced Highway Slope using a Machine Learning Method, 2020 ([Link to the paper](https://journals.sagepub.com/doi/10.1177/0361198120924415))
 2.  A Determining Form for the Subcritical Surface Quasi-Geostrophic Equation, 2019 ([Link to the paper](https://link.springer.com/article/10.1007/s10884-018-9652-4))
 3.  Determining form and data assimilation algorithm for weakly damped and driven Korteweg--de Vries equation --- Fourier modes case, 2017 ([Link to the paper](https://www.sciencedirect.com/science/article/abs/pii/S1468121817300184))
 4.  A determining form for the damped driven nonlinear Schrödinger equation---Fourier modes case, 2015 ([Link to the paper](https://www.sciencedirect.com/science/article/pii/S0022039614004823))
+-->
+```
