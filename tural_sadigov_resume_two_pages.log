@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.15)  29 OCT 2022 11:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.15)  30 OCT 2022 09:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -603,77 +603,78 @@ Package hyperref Info: Link coloring OFF on input line 92.
 \@outlinefile=\write4
 \openout4 = `tural_sadigov_resume_two_pages.out'.
 
-<profil_circle.jpeg, id=7, 803.0pt x 803.0pt>
-File: profil_circle.jpeg Graphic file (type jpg)
-<use profil_circle.jpeg>
-Package pdftex.def Info: profil_circle.jpeg  used on input line 110.
-(pdftex.def)             Requested size: 142.26378pt x 142.25475pt.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <20.74> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 110.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 111.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 20.74pt on input line 110.
+(Font)              scaled to size 20.74pt on input line 111.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <14.4> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 110.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 111.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 110.
+(Font)              scaled to size 14.4pt on input line 111.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 110.
+(Font)              <7> on input line 111.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 110.
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 110.
+(Font)              <5> on input line 111.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 111.
 (/Users/tsadigov/Library/TinyTeX/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-LaTeX Font Info:    Trying to load font information for T1+DejaVuSansMono-TLF on input line 110.
+LaTeX Font Info:    Trying to load font information for T1+DejaVuSansMono-TLF on input line 111.
 (/Users/tsadigov/Library/TinyTeX/texmf-dist/tex/latex/dejavu/T1DejaVuSansMono-TLF.fd
 File: T1DejaVuSansMono-TLF.fd 2011/06/01 Font definitions for T1/DejaVuSansMono-TLF.
 )
 LaTeX Font Info:    Font shape `T1/DejaVuSansMono-TLF/m/n' will be
-(Font)              scaled to size 8.6pt on input line 110.
+(Font)              scaled to size 8.6pt on input line 111.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <8> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 121.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 122.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 121.
+(Font)              scaled to size 8.0pt on input line 122.
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--125
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 131--135
+Underfull \hbox (badness 10000) in paragraph at lines 121--126
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+ClearSans-TLF on input line 142.
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--136
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ClearSans-TLF on input line 143.
 (/Users/tsadigov/Library/TinyTeX/texmf-dist/tex/latex/clearsans/TS1ClearSans-TLF.fd
 File: TS1ClearSans-TLF.fd 2019/10/16 (autoinst) Font definitions for TS1/ClearSans-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/m/n' in size <10> not available
-(Font)              Font shape `TS1/ClearSans-TLF/regular/n' tried instead on input line 142.
+(Font)              Font shape `TS1/ClearSans-TLF/regular/n' tried instead on input line 143.
 LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 142.
+(Font)              scaled to size 10.0pt on input line 143.
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--169
+Underfull \hbox (badness 10000) in paragraph at lines 172--176
 
  []
 
 [1
 
-{/Users/tsadigov/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./profil_circle.jpeg>]
-Underfull \hbox (badness 3713) in paragraph at lines 217--221
+{/Users/tsadigov/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' in size <10> not available
+(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 209.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 209.
+
+Underfull \hbox (badness 1348) in paragraph at lines 232--234
+[]\T1/ClearSans-TLF/regular/n/10 Predicting Ca-reer Longevity of NBA Rook-ies, Mar-garet Phipps, Luke
+ []
+
+
+Underfull \hbox (badness 3713) in paragraph at lines 330--334
 []\T1/ClearSans-TLF/regular/n/10 A de-ter-min-ing form for the damped driven non-lin-ear Schrödinger
  []
 
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 230.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 230.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sl' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/sl' tried instead on input line 284.
+(Font)              Font shape `T1/ClearSans-TLF/regular/sl' tried instead on input line 337.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/sl' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 284.
+(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 337.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 284.
+(Font)              scaled to size 10.0pt on input line 337.
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -692,18 +693,18 @@ Package rerunfilecheck Info: File `tural_sadigov_resume_two_pages.out' has not c
  )
 (\end occurred when \ifnum on line 31 was incomplete) 
 Here is how much of TeX's memory you used:
- 23251 strings out of 477011
- 435588 string characters out of 5826310
- 767533 words of memory out of 5000000
- 43971 multiletter control sequences out of 15000+600000
+ 23226 strings out of 477011
+ 435081 string characters out of 5826310
+ 768515 words of memory out of 5000000
+ 43949 multiletter control sequences out of 15000+600000
  500208 words of font info for 43 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 115i,11n,118p,670b,780s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 115i,11n,118p,674b,780s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/tsadigov/Library/TinyTeX/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}{/Users/tsadigov/Library/TinyTeX/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_t1-type1.enc}{/Users/tsadigov/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/Users/tsadigov/Library/TinyTeX/texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc}</Users/tsadigov/Library/TinyTeX/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></Users/tsadigov/Library/TinyTeX/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></Users/tsadigov/Library/TinyTeX/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono.pfb></Users/tsadigov/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on tural_sadigov_resume_two_pages.pdf (2 pages, 163417 bytes).
+Output written on tural_sadigov_resume_two_pages.pdf (2 pages, 68039 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
- 29 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 89 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 28 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
