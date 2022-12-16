@@ -66,11 +66,13 @@ library(vitae)
 
     -   Strong experience and knowledge in data visualization with ggplot2 (tidyverse) creating Scatterplots, Dotplots, Histograms, Smoothed Histograms, Bar plots, Pie-charts, Boxplots, Time plots, Violin plots etc. Performed Exploratory Data Analysis with R and Visualization tools like ggplot to identify the patterns and correlations between the features.
 
-    -   Communication, reporting, visualization and dashboard: Quarto, R Markdown, Jupyter Notebook, R Shiny. Sample R Shiny web app: [Link to the app](https://turalsadigov.shinyapps.io/my_new_ames_app/).
+    -   Communication, reporting, visualization and dashboard: Quarto, R Markdown, Jupyter Notebook, R Shiny.
+
+    -   Sample R Shiny web app: <https://turalsadigov.shinyapps.io/my_new_ames_app/>.
 
 -   **Leadership and collaboration**
 
-    -   Actively advising and mentoring students in data science and mathematocs majors at Hamilton College, and supervised all adjunct lecturers at SUNY Polytechnic Institute as Math Service Coordinator (position similar to an associate chair)
+    -   Actively advising and mentoring students in data science and mathematics majors at Hamilton College, and supervised all adjunct lecturers at SUNY Polytechnic Institute as Math Service Coordinator (position similar to an associate chair)
 
     -   Strong decision-making ability with the aid of data analysis, and expert judgments. A quick and a life-long learner as evident from career/area change (from Partial Differential Equations to Data Science) right after PhD.
 
@@ -149,9 +151,11 @@ tribble(
 
     -   Delivered technical lectures in math courses such as various levels of Calculus, Linear Algebra and Differential Equations.
 
-    -   BDelivered technical lectures in undergraduate and graduate levels
+    -   Delivered technical lectures in undergraduate and graduate levels
 
 # Selected mentored ML projects (All are teamwork)
+
+Also see <https://github.com/turalsadigov/mentored_projects>.
 
 1.  *Does Economic Development Predict Democratization?*, With Chiara Bondi, John Madigan, 2022
 
@@ -181,7 +185,7 @@ tribble(
     -   Methods: examination of multicollinearity, training and testing split, pruned regression/decision tree, bagged model and random forest, cross validation and hyper-parameter tuning
     -   Packages: rpart, tree, tidyverse
 
-6.  How Race, Income, and Education Relate to Inter- net Access in US Counties, Lindsay Gearty, Margraet Phipps (Methods: Multiple Polynomial Regression, Forward/Backward Variable Selection), 2021
+6.  How Race, Income, and Education Relate to Internet Access in US Counties, Lindsay Gearty, Margraet Phipps (Methods: Multiple Polynomial Regression, Forward/Backward Variable Selection), 2021
 
     -   Methods: feature engineering, multiple linear regression, polynomial regression, backward variable selection using various measures, examination of multicollinearity
     -   Packages: MASS, glmnet
@@ -212,8 +216,6 @@ tribble(
 
 -   Gold Medal (four times), Azerbaijan Mathematical Olympiad, 2000-03
 
-````{=html}
-<!-- 
 # Selected data-related talks
 
 1.  Theoretical Analysis of Artificial Neural Network solutions to the damped, driven Korteweg de-Vries equation, AMS Special Session, 2022
@@ -230,12 +232,9 @@ tribble(
 
 7.  Stochastic Processes, Markov Chain and Brownian Motion, SUNY Poly, 2019
 
-```{=html}
-<!-- # Publications
+# Publications
 
 1.  Safety Prediction Model for Reinforced Highway Slope using a Machine Learning Method, 2020 ([Link to the paper](https://journals.sagepub.com/doi/10.1177/0361198120924415))
 2.  A Determining Form for the Subcritical Surface Quasi-Geostrophic Equation, 2019 ([Link to the paper](https://link.springer.com/article/10.1007/s10884-018-9652-4))
 3.  Determining form and data assimilation algorithm for weakly damped and driven Korteweg--de Vries equation --- Fourier modes case, 2017 ([Link to the paper](https://www.sciencedirect.com/science/article/abs/pii/S1468121817300184))
 4.  A determining form for the damped driven nonlinear Schrödinger equation---Fourier modes case, 2015 ([Link to the paper](https://www.sciencedirect.com/science/article/pii/S0022039614004823))
--->
-````

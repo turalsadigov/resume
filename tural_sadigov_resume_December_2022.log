@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.4)  15 DEC 2022 19:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.4)  15 DEC 2022 20:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -655,25 +655,25 @@ Underfull \hbox (badness 1342) in paragraph at lines 169--173
 
 {/Users/tsadigov/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <8> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 256.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 257.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 256.
+(Font)              scaled to size 8.0pt on input line 257.
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--259
+Underfull \hbox (badness 10000) in paragraph at lines 256--260
 
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 269--272
+Underfull \hbox (badness 1107) in paragraph at lines 270--273
 []\T1/ClearSans-TLF/regular/n/10 Python: Pan-das, Numpy, Scikit-learn, Ten-sor-Flow, Keras, Mat-plotlib,
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sl' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/sl' tried instead on input line 316.
+(Font)              Font shape `T1/ClearSans-TLF/regular/sl' tried instead on input line 317.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/sl' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 316.
+(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 317.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 316.
+(Font)              scaled to size 10.0pt on input line 317.
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -688,11 +688,11 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [2]
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 377.
+(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 380.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 377.
+(Font)              scaled to size 10.0pt on input line 380.
 
-Underfull \hbox (badness 1348) in paragraph at lines 403--405
+Underfull \hbox (badness 1348) in paragraph at lines 406--408
 []\T1/ClearSans-TLF/regular/n/10 Predicting Ca-reer Longevity of NBA Rook-ies, Mar-garet Phipps, Luke
  []
 
@@ -709,8 +709,13 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{15.4pt}.
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 471--475
+Underfull \hbox (badness 10000) in paragraph at lines 474--478
 
+ []
+
+
+Underfull \hbox (badness 3713) in paragraph at lines 551--555
+[]\T1/ClearSans-TLF/regular/n/10 A de-ter-min-ing form for the damped driven non-lin-ear Schrödinger
  []
 
 
@@ -731,18 +736,18 @@ Package rerunfilecheck Info: File `tural_sadigov_resume_December_2022.out' has n
  )
 (\end occurred when \ifnum on line 31 was incomplete) 
 Here is how much of TeX's memory you used:
- 23208 strings out of 476911
- 434899 string characters out of 5823524
- 766218 words of memory out of 5000000
- 44041 multiletter control sequences out of 15000+600000
+ 23225 strings out of 476911
+ 435107 string characters out of 5823524
+ 766257 words of memory out of 5000000
+ 44045 multiletter control sequences out of 15000+600000
  500208 words of font info for 43 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,11n,118p,612b,780s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/tsadigov/Library/TinyTeX/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}{/Users/tsadigov/Library/TinyTeX/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_t1-type1.enc}{/Users/tsadigov/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/Users/tsadigov/Library/TinyTeX/texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc}</Users/tsadigov/Library/TinyTeX/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></Users/tsadigov/Library/TinyTeX/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></Users/tsadigov/Library/TinyTeX/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono.pfb></Users/tsadigov/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on tural_sadigov_resume_December_2022.pdf (4 pages, 72857 bytes).
+Output written on tural_sadigov_resume_December_2022.pdf (4 pages, 75360 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 500000)
+ 101 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 31 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
