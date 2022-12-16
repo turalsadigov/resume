@@ -57,7 +57,7 @@ tribble(
 
 -   Descriptive Statistics, Inferential Statistics, Hypothesis Testing, Resampling methods, Bootstrap methods, Permutation Tests (infer)
 
--   Data Wrangling, Cleaning, Preprocessing & Feature Engineering, Data Visualization (tidyverse, dplyr, ggplot)
+-   Data Wrangling, Cleaning, Preprocessing & Feature Engineering, Data Visualization (tidyverse, dplyr, ggplot, pandas, matplotlib, numpy)
 
 -   Time Series Analysis: ARIMA, SARIMA
 
